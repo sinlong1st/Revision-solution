@@ -3,7 +3,7 @@ A Web based application that allows users to create their own customized flashca
 Features:
 + Add/Delete/Edit flashcards
 + View your flashcards
-+ Questions bank
++ Questions banks
 + Login/Logout
 + Collect flashcards
 + Add flashcards to favorite
